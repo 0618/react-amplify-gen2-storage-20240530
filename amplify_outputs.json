@@ -102,5 +102,9 @@
       "nonModels": {}
     }
   },
+  "storage": {
+    "aws_region": "us-east-1",
+    "bucket_name": "amplify-reactamplifygen2--amplifyteamdrivebucket28-s5kcufec8ojc"
+  },
   "version": "1"
 }
